@@ -1,6 +1,12 @@
 - year: 2025
   items:
     - date: "Aug. 2025"
+      date_full: "2025-08-21"
+      order: "2025-08-21"
+      text: "Our research proposal for the NSF IUSE has been awarded."
+      url: 
+      link_text: "[Details]"
+    - date: "Aug. 2025"
       date_full: "2025-08-11"
       order: "2025-08-11"
       text: "Our research outcome from the CII RT-422 project has been featured in ENR (Engineering News-Record)"
