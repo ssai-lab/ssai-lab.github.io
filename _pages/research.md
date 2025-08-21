@@ -41,8 +41,8 @@ permalink: /research/
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 24px;
-  justify-items: start; /* 카드 가운데 정렬 */
-  justify-content: start; /* 전체 컨테이너 왼쪽 정렬 */
+  justify-items: center; /* 카드 가운데 정렬 */
+  justify-content: center; /* 전체 컨테이너 왼쪽 정렬 */
 }
 
 .project-card {
@@ -98,6 +98,10 @@ permalink: /research/
   font-size: 0.80em;
   margin-bottom: 4px;
   letter-spacing: 0.01em;
+}
+.project-section-bg-completed .project-grid {
+  justify-items: start;      /* 카드들을 왼쪽 정렬 */
+  justify-content: start;    /* 전체 컨테이너도 왼쪽 정렬 */
 }
 @media (max-width: 850px) {
   .project-inner-container { max-width: 98vw; padding: 0 1vw; }
