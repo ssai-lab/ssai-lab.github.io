@@ -158,7 +158,7 @@ html {
     </h2>
     <div style="margin-bottom:38px; margin-left:3px;"></div>
     <div class="project-grid">
-      {% assign sorted_projects = site.projects | sort: "start" | reverse %}
+      {% assign sorted_projects = site.projects | sort: "end" | reverse %}
         {% for project in sorted_projects limit:6 %}
           <a href="{{ project.url }}" class="project-card">
             <img src="{{ project.image }}" alt="{{ project.title }}" class="project-card-img">
