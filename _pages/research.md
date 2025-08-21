@@ -108,8 +108,8 @@ permalink: /research/
   .project-grid {
     grid-template-columns: 1fr !important;
     gap: 14px;
-    justify-items: center !important;
-    justify-content: center !important;
+    justify-items: start !important;
+    justify-content: start !important;
   }
   .project-card {
     width: 99vw;
