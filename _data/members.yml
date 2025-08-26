@@ -34,14 +34,6 @@ phds_postdocs:
   # ... 추가
 
 current:
-  - name: "Jinsol Lee, PhD."
-    title: "Postdoctoral Researcher"
-    image: "/assets/images/Jinsol.png"
-    description: "Focuses on construction automation."
-    website: 
-    linkedin:
-    scholar: "https://scholar.google.com/citations?user=RvdJPIYAAAAJ&hl=ko"
-
   - name: "Jaehoon Lee"
     title: "PhD Student"
     image: "/assets/images/Jaehoon_2.png"
@@ -58,14 +50,6 @@ current:
     linkedin: "https://www.linkedin.com/in/nitai-shah-5544b21b3/?originalSubdomain=in"
     scholar:
 
-  - name: "Taeeun Kim"
-    title: "Graduate Student Intern"
-    image: "/assets/images/Taeeun Kim.jpg"
-    description: "Works on robotics in construction."
-    website: 
-    linkedin: "https://www.linkedin.com/in/taeeun-kim-09a039365/?originalSubdomain=kr"
-    scholar:
-
   - name: "Archit Avhale"
     title: "Undergraduate Research Assistant"
     image: "/assets/images/Archit.jpeg"
@@ -75,12 +59,20 @@ current:
     scholar:
 
 former:
-  - name: 
-    title: 
-    image: /assets/members/Blank.png
-    description:
-    website:
-    linkedin: 
+  - name: "Jinsol Lee, PhD."
+    title: "Assistant Professor at Middle Tennessee State University"
+    image: "/assets/images/Jinsol.png"
+    description: "Former Postdoctoral Researcher"
+    website: 
+    linkedin:
+    scholar: "https://scholar.google.com/citations?user=RvdJPIYAAAAJ&hl=ko"
+    
+  - name: "Taeeun Kim"
+    title: "Graduate Student at Chonnam National University "
+    image: "/assets/images/Taeeun Kim.jpg"
+    description: "Former Graduate Research Intern"
+    website: 
+    linkedin: "https://www.linkedin.com/in/taeeun-kim-09a039365/?originalSubdomain=kr"
     scholar:
 
     # ... 기타 정보 ...
