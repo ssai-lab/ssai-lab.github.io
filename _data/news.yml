@@ -1,3 +1,12 @@
+- year: 2026
+  items:
+    - date: "Jan. 2025"
+      date_full: "2026-01-09"
+      order: "2026-01-09"
+      text: "Our team received the 1st place award at the No Constraints Thinking Workshop led by ThisWay Global."
+      url: "https://www.thiswayglobal.com/"
+      link_text: "[Details]"
+
 - year: 2025
   items:
     - date: "Aug. 2025"
