@@ -37,7 +37,7 @@ phds_postdocs:
 current:
   - name: "Sihoo Yoon, PhD."
     title: "Postdoctoral Researcher"
-    image:
+    image: "/assets/images/Blank.png"
     description: "Works on safety systems."
     website: 
     linkedin: 
