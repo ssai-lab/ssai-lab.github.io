@@ -1,4 +1,14 @@
 journal:
+  - authors: "Kang, G., Lee, J., Kim, N., and Jeon, J.*"
+    year: 2026
+    title: "A Generative AI Framework for Developing Optical Illusion-based Construction Safety Signs"
+    journal: "Developments in the Built Environment, Elsevier, 27, 100978"
+    link: "https://doi.org/10.1016/j.dibe.2026.100978"
+  - authors: "Ray, U., Park, J.*, and Kim, N."
+    year: 2026
+    title: "Advancing Automated OSHA Compliance Analysis in Construction through Prompt Engineering for NLP-Based Insight Extraction"
+    journal: "Journal of Management in Engineering, ASCE, 42(4), 04026015"
+    link: "https://doi.org/10.1061/JMENEA.MEENG-7154"
   - authors: "Kim, N., Park, S., Uhm, M., Ahn, C. R., and Kim, H.*"
     year: 2025
     title: "Enhancing Construction Managers’ Risk Perception and Lowering Risk Tolerance Toward Unsafe Behaviors Through Experiential Safety Training"
@@ -46,16 +56,31 @@ journal:
     link: "https://doi.org/10.1016/j.autcon.2020.103390"
   # ... 기타 저널 논문
 conference:
+  - authors: "Jung, W. and Kim, N.*"
+    year: 2026
+    title: "Multi-Agent AI Learning Assistant for Human Building Interaction: System Architecture and Preliminary Performance"
+    conference: "International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings (IAQVEC 2026), May 18-22, 2026, Los Angeles, CA"
+    link: "https://doi.org/10.1051/e3sconf/202671606009"
+  - authors: "Jung, W. and Kim, N.*"
+    year: 2025
+    title: "Students' and Educators' Awareness and Perceptions of Generative Artificial Intelligence in Architecture, Engineering, and Construction Education"
+    conference: "Proceedings of the CSCE Construction Specialty Conference and ASCE Construction Research Congress (CSCE/CRC 2025), Jul 28-31, 2025, Montreal, Canada"
+    link: "https://doi.org/10.22260/CRC-CSCE-2025/0139"
+  - authors: "Ray, U., Park, J.*, Anderson, B. A, and Kim, N."
+    year: 2025
+    title: "Modeling Latent Human Factors in Construction Reports through ReAct-Based Reasoning"
+    conference: "International Conference on Construction Engineering and Project Management (ICCEPM 2025), Nov 17-20, 2025, Jeju, South Korea"
+    link:   
   - authors: "Lee, J.**, Ko, T., Huang, K., Park, J., Kim, N.* "
     year: 2025
     title: "The Impact of Low-Quality Accident Reports on the Performance of Construction Safety AI Models"
     conference: "International Conference on Computing in Civil Engineering (i3CE 2025), May 11-14, 2025, New Orleans, LA"
-    link: 
+    link: "https://doi.org/10.1061/9780784486443.103"
   - authors: "Ray, U., Park, J. *, Alvarez, L., Kim, N. "
     year: 2025
     title: "Prompt Engineering in Construction Safety: A Comparative Study of Zero-Shot, One-Shot, and Few-Shot Strategies for Accident Classification"
     conference: "International Conference on Computing in Civil Engineering (i3CE 2025), May 11-14, 2025, New Orleans, LA"
-    link:
+    link: "https://doi.org/10.1061/9780784486443.086"
   - authors: "Lee, J.**, Ahn, C.R., Lee, H, Jeon, J., Kim, N.*"
     year: 2024
     title: "Detecting Activities Exposing Construction Workers to the Risk of Developing Carpal Tunnel Syndrome"
@@ -65,12 +90,12 @@ conference:
     year: 2024
     title: "Exploring Individual Variances in Learning Process During Immersive Safety Training for Construction: A Comprehensive Review of VR/AR-Based Safety Training"
     conference: "International Conference on Computing in Civil Engineering (i3CE 2024), July 28-31, 2023, Pittsburgh, PA"
-    link:
-  - authors: "Park, S., Jung, K., Jeon, J.*, Kim, N."
+    link: "https://doi.org/10.1061/9780784486139.006"
+  - authors: "Park, S., Jung, K., Kim, N., and Jeon, J.*"
     year: 2024
     title: "Development of a Framework for Generative AI-based Safety Management via Prompt Engineering"
     conference: "International Conference on Computing in Civil Engineering (i3CE 2024), July 28-31, 2023, Pittsburgh, PA"
-    link:
+    link: "https://doi.org/10.1061/9780784486139.078"
   - authors: "Kim, T., Kim, S., Kim, N., Kim., H*"
     year: 2023
     title: "ChatGPT in the Construction Domain: Opportunities, Risks, and Recommendations"
