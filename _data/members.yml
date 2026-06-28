@@ -34,6 +34,14 @@ phds_postdocs:
   # ... 추가
 
 current:
+  - name: "Sihoo Yoon
+    title: "Postdoctoral Researcher"
+    image:
+    description: "Works on safety systems."
+    website: 
+    linkedin: 
+    scholar: "https://scholar.google.com/citations?user=vcRmSD0AAAAJ&hl=ko"
+  
   - name: "Jaehoon Lee"
     title: "PhD Student"
     image: "/assets/images/Jaehoon_2.png"
@@ -50,12 +58,12 @@ current:
     linkedin: "https://www.linkedin.com/in/nitai-shah-5544b21b3/?originalSubdomain=in"
     scholar:
 
-  - name: "Archit Avhale"
-    title: "Undergraduate Research Assistant"
+  - name: "Aniruddh Adiga"
+    title: "MS Student"
     image: "/assets/images/Archit.jpeg"
-    description: "Works on safety systems."
+    description: "AI for Constsruction Drawing Analysis."
     website: 
-    linkedin:
+    linkedin: "https://www.linkedin.com/in/aniruddh09/"
     scholar:
 
 former:
@@ -73,6 +81,14 @@ former:
     description: "Former Graduate Research Intern"
     website: 
     linkedin: "https://www.linkedin.com/in/taeeun-kim-09a039365/?originalSubdomain=kr"
+    scholar:
+
+  - name: "Archit Avhale"
+    title: 
+    image: "/assets/images/Archit.jpeg"
+    description: "Former Undergraduate Research Assistant"
+    website: 
+    linkedin:
     scholar:
 
     # ... 기타 정보 ...
