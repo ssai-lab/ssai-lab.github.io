@@ -1,6 +1,13 @@
 - year: 2026
   items:
-    - date: "Jan. 2025"
+    - date: "Jue. 2026"
+      date_full: "2026-06-01"
+      order: "2026-06-01"
+      text: "Our team has been awarded a $130K grant from the KAIA Development of a Drawing-Specialized Vison-Language Reasoning AI"
+      url: 
+      link_text: "[Details]"
+
+    - date: "Jan. 2026"
       date_full: "2026-01-09"
       order: "2026-01-09"
       text: "Our team received the 1st place award at the No Constraints Thinking Workshop led by ThisWay Global."
