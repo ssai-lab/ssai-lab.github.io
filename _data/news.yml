@@ -1,12 +1,17 @@
 - year: 2026
   items:
-    - date: "Jue. 2026"
-      date_full: "2026-06-01"
-      order: "2026-06-01"
+    - date: "Jun. 2026"
+      date_full: "2026-06-28"
+      order: "2026-06-28"
       text: "Our team has been awarded a $130K grant from the Korea Agency for Infrastucture Technology Advancement (KAIA)"
       url: 
       link_text: "[Details]"
-
+    - date: "Jun. 2026"
+      date_full: "2026-06-23"
+      order: "2026-06-23"
+      text: "Our research on VR-based safety training has been featured in Texas A&M Stories."
+      url: "https://stories.tamu.edu/news/2026/06/23/can-virtual-reality-and-ai-help-construction-workers-avoid-accidents/"
+      link_text: "[Details]"
     - date: "Jan. 2026"
       date_full: "2026-01-09"
       order: "2026-01-09"
