@@ -50,20 +50,20 @@ current:
     linkedin: "https://www.linkedin.com/in/jaehoon-lee-93115b25a/?locale=en_US"
     scholar:
 
+  - name: "Aniruddh Adiga"
+    title: "MS Student"
+    image: "/assets/images/Anir.jpeg"
+    description: "AI for Constsruction Drawing Analysis."
+    website: 
+    linkedin: "https://www.linkedin.com/in/aniruddh09/"
+    scholar:
+
   - name: "Nitai Premal Shah"
     title: "MS Student"
     image: "/assets/images/Blank.png"
     description: "Works on workzone safety."
     website: 
     linkedin: "https://www.linkedin.com/in/nitai-shah-5544b21b3/?originalSubdomain=in"
-    scholar:
-
-  - name: "Aniruddh Adiga"
-    title: "MS Student"
-    image: "/assets/images/Archit.jpeg"
-    description: "AI for Constsruction Drawing Analysis."
-    website: 
-    linkedin: "https://www.linkedin.com/in/aniruddh09/"
     scholar:
 
 former:
