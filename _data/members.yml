@@ -58,6 +58,14 @@ current:
     website: 
     linkedin: "https://www.linkedin.com/in/aniruddh09/"
     scholar:
+    
+  - name: "Noah Lee"
+    title: "MS Student"
+    image: "/assets/images/Noah.jpeg"
+    description: "AI for Constsruction Drawing Analysis."
+    website: 
+    linkedin: "https://www.linkedin.com/in/noah-v-lee/"
+    scholar:
 
   - name: "Nitai Premal Shah"
     title: "MS Student"
