@@ -61,7 +61,7 @@ current:
     
   - name: "Noah Lee"
     title: "MS Student"
-    image: "/assets/images/Noah.jpg"
+    image: "/assets/images/Noah.JPG"
     description: "AI for Constsruction Drawing Analysis."
     website: 
     linkedin: "https://www.linkedin.com/in/noah-v-lee/"
