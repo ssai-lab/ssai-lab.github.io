@@ -56,9 +56,10 @@ h2.section-title {
 }
 .member-card img {
   width: 100%;
-  aspect-ratio: 320px;
-  object-fit: cover;
+  aspect-ratio: 1/1;
+  object-fit: contain;
   object-position: center;
+  background: #fff;
   border-radius: 24px 24px 0 0;
 }
 .member-card-info {
