@@ -1,5 +1,11 @@
 - year: 2026
   items:
+    - date: "Jul. 2026"
+      date_full: "2026-07-09"
+      order: "2026-07-09"
+      text: "Dr. Kim's interview on AI-driven construction safety has been featured in Construction Dive, one of the leading digital media outlets for the construction industry."
+      url: "https://www.constructiondive.com/news/texas-am-ai-reduce-struck-bys-construction-jobsites/824722/"
+      link_text: "[Details]"
     - date: "Jun. 2026"
       date_full: "2026-06-28"
       order: "2026-06-28"
