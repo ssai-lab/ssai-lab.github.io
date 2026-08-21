@@ -1,5 +1,11 @@
 - year: 2026
   items:
+    - date: "Aug. 2026"
+      date_full: "2026-08-21"
+      order: "2026-08-21"
+      text: "Our paper, “ConstructCIE: A Dataset for Extracting Causal Information from Construction Accident Narratives,” has been accepted to EMNLP 2026."
+      url:
+      link_text: "[Details]"
     - date: "Jul. 2026"
       date_full: "2026-07-09"
       order: "2026-07-09"
@@ -9,7 +15,7 @@
     - date: "Jun. 2026"
       date_full: "2026-06-28"
       order: "2026-06-28"
-      text: "Our team has been awarded a $130K grant from the Korea Agency for Infrastucture Technology Advancement (KAIA)"
+      text: "Our team has been awarded a $140K grant from the Korea Agency for Infrastucture Technology Advancement (KAIA)"
       url: 
       link_text: "[Details]"
     - date: "Jun. 2026"
