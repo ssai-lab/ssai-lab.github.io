@@ -38,7 +38,7 @@ current:
   - name: "Sihoo Yoon, PhD."
     title: "Postdoctoral Researcher"
     image: "/assets/images/Sihoo.jpg"
-    description: "Works on safety systems."
+    description: "Works on Robotics in Construction."
     website: 
     linkedin: 
     scholar: "https://scholar.google.com/citations?user=vcRmSD0AAAAJ&hl=ko"
@@ -50,7 +50,15 @@ current:
     website: "https://jaehoonblog.com/"
     linkedin: "https://www.linkedin.com/in/jaehoon-lee-93115b25a/?locale=en_US"
     scholar:
-
+    
+  - name: "Kihyun Jeong"
+    title: "PhD Student"
+    image: "/assets/images/Blank.png"
+    description: "Works on safety systems."
+    website: 
+    linkedin: 
+    scholar: "https://scholar.google.com/citations?user=B4oUquEAAAAJ&hl=en&oi=ao"
+    
   - name: "Aniruddh Adiga"
     title: "MS Student"
     image: "/assets/images/Anir.jpeg"
