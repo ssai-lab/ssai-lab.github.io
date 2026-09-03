@@ -1,6 +1,11 @@
 - year: 2026
   items:
     - date: "Aug. 2026"
+      date_full: "2026-08-26"
+      order: "2026-08-26"
+      text: "Our research on VR and AI for safety has been featured in The American Society of Mechanical Engineers"
+      url: "https://www.asme.org/topics-resources/content/immersive-tech-on-the-alert"
+    - date: "Aug. 2026"
       date_full: "2026-08-21"
       order: "2026-08-21"
       text: "Our paper, “ConstructCIE: A Dataset for Extracting Causal Information from Construction Accident Narratives,” has been accepted to EMNLP 2026."
