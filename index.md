@@ -150,7 +150,7 @@ html {
 </div>
 
 <!-- Recent News Section (Main Page) -->
-<div class="recent-news-section" style="background:#f5f6f7; padding:15px 0 32px 0; margin:0;">
+<div class="recent-news-section" style="background:#f5f6f7;">
   <div style="max-width:1000px; margin:0 auto;">
     <h2 style="font-size:1.5em; font-weight:600; margin-bottom:18px; text-align:center;">
       Recent News
@@ -183,7 +183,7 @@ html {
 </div>
 
 <!-- Research Projects Section (Main Page) -->
-<div class="project-section-bg" style="background:#f5f6f7;">
+<div class="project-section-bg" style="background:#fff;">
   <div class="project-inner-container" style="display:flex; flex-direction:column; align-items:center;">
     <h2 style="font-size:1.5em; font-weight:600; margin-bottom:18px; text-align:center; width:100%;">
       Research Projects
