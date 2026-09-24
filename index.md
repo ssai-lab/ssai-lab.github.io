@@ -150,8 +150,8 @@ html {
 </div>
 
 <!-- Recent News Section (Main Page) -->
-<div class="recent-news-section" style="background:#f5f6f7;">
-  <div style="max-width:1000px; margin:0 auto;">
+<div class="recent-news-section">
+  <div style="max-width:1000px; margin:0 auto; padding:0 32px;">
     <h2 style="font-size:1.5em; font-weight:600; margin-bottom:18px; text-align:center;">
       Recent News
     </h2>
@@ -171,13 +171,20 @@ html {
           {% endif %}
           {{ item.text }}
           {% if item.url %}
-            <a href="{{ item.url }}" target="_blank" style="color:#225; margin-left:7px;">{{ item.link_text | default: "[Link]" }}</a>
+            <a href="{{ item.url }}"
+               target="_blank"
+               style="color:#225; margin-left:7px;">
+              {{ item.link_text | default: "[Link]" }}
+            </a>
           {% endif %}
         </li>
       {%- endfor -%}
     </ul>
     <div style="text-align:center; margin-bottom:4px;">
-      <a href="/news/" style="font-size:1.05em; color:#222; text-decoration:underline; font-weight:600;">View all news</a>
+      <a href="/news/"
+         style="font-size:1.05em; color:#222; text-decoration:underline; font-weight:600;">
+        View all news
+      </a>
     </div>
   </div>
 </div>
