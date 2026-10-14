@@ -1,4 +1,9 @@
 journal:
+  - authors: "Park, J., Baek, S., Kim, T., Kim, N., and Kim, H.*"
+    year: 2026
+    title: "Scenario-Based Framework for Economic Evaluation of Safety Technology Adoption in Construction"
+    journal: "Journal of Management in Engineering, 42(6), 04026049"
+    link: "https://doi.org/10.1061/JMENEA.MEENG-7613"
   - authors: "Kang, G., Lee, J., Kim, N., and Jeon, J.*"
     year: 2026
     title: "A Generative AI Framework for Developing Optical Illusion-based Construction Safety Signs"
@@ -61,6 +66,11 @@ conference:
     title: "Multi-Agent AI Learning Assistant for Human Building Interaction: System Architecture and Preliminary Performance"
     conference: "International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings (IAQVEC 2026), May 18-22, 2026, Los Angeles, CA"
     link: "https://doi.org/10.1051/e3sconf/202671606009"
+  - authors: "Reddy, J., Premal Shah, N., Pi, Y., Lee, J., and Kim, N.*"
+    year: 2026
+    title: "Vehicle Speed Estimation Using a Roadside Camera and 3D Scene Reconstruction for Work Zone Intrusion Prediction"
+    conference: "Construction Research Congress 2022, ASCE, March 18-21, 2026, San Antonio, TX"
+    link: "https://doi.org/10.1061/9780784486993.116"
   - authors: "Jung, W. and Kim, N.*"
     year: 2025
     title: "Students' and Educators' Awareness and Perceptions of Generative Artificial Intelligence in Architecture, Engineering, and Construction Education"
@@ -70,7 +80,7 @@ conference:
     year: 2025
     title: "Modeling Latent Human Factors in Construction Reports through ReAct-Based Reasoning"
     conference: "International Conference on Construction Engineering and Project Management (ICCEPM 2025), Nov 17-20, 2025, Jeju, South Korea"
-    link:   
+    link: "https://par.nsf.gov/biblio/10681804"   
   - authors: "Lee, J.**, Ko, T., Huang, K., Park, J., Kim, N.* "
     year: 2025
     title: "The Impact of Low-Quality Accident Reports on the Performance of Construction Safety AI Models"
